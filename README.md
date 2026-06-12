@@ -60,12 +60,19 @@
 
 ## 🗂️ СТРУКТУРА ПРОЕКТА
 Officials_Project/
+
 ├── README.md # Описание проекта
-├── officials.exe # Готовый исполняемый файл (Windows)
+
+├──officials.exe # Готовый исполняемый файл (Windows)
+
 ├── main.cpp # Главное меню и точка входа
+
 ├── ministry.h # Объявление классов и функций
+
 ├── ministry.cpp # Реализация логики программы
+
 ├── CMakeLists.txt # Файл сборки (CMake)
+
 └── input.txt # Пример входного файла
 
 ## 🖥️ ИНСТРУКЦИЯ ПО ЗАПУСКУ (WINDOWS)
